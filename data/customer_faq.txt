@@ -1,0 +1,22 @@
+SWEET CRUMBS BAKERY - CUSTOMER FAQ (fictional sample data)
+
+Q: Do you have eggless options?
+A: Yes. About 60% of our range is eggless, marked with a green leaf symbol. All our celebration cakes can be made eggless at no extra cost.
+
+Q: How far in advance should I order a custom cake?
+A: Custom celebration cakes need at least 48 hours notice. Multi-tier wedding cakes need 2 weeks notice and a 40% advance payment.
+
+Q: Do you deliver?
+A: We deliver within 8 km of any store for a flat fee of Rs 49. Orders above Rs 999 get free delivery. Delivery runs from 9 AM to 8 PM.
+
+Q: Are your products gluten-free?
+A: We offer a small gluten-free range (almond cookies, flourless chocolate cake and millet bread) baked in a separate area. However, we cannot guarantee zero cross-contamination.
+
+Q: What is your refund policy?
+A: If you are unhappy with a product, return it within 24 hours with the receipt for a full refund or replacement. Custom cakes are non-refundable once production has started.
+
+Q: Do you have a loyalty programme?
+A: Yes, "Crumb Club". You earn 1 point per Rs 10 spent. 100 points can be redeemed for Rs 50 off. Members get a free cupcake on their birthday.
+
+Q: Which is your best-selling product?
+A: Our best-seller is the Filter Coffee Tres Leches cake, launched in 2019. The second most popular item is the Jaggery Banana Bread.
